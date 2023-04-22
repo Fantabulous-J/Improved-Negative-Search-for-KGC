@@ -38,3 +38,6 @@ We provide instructions for training and evaluation on WN18RR and results for ot
 ##### Model Ensembling
 - ```bash scripts/embedding_fusion.sh WN18RR```
 - ```bash scripts/rank_fusion.sh WN18RR```
+
+### Acknowledgement
+Many thanks to previous work https://github.com/intfloat/SimKGC.
